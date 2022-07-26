@@ -13,16 +13,17 @@
     * Major in CS at SHU Currently. 
     * Interested in CV, DIP and so on, probably going to further study.
 
-:pencil2: &nbsp; LemonadeJJ's Github Stats:
+##### :pencil2: &nbsp; LemonadeJJ's Github Stats::punch::punch:
 
   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; ![LemonadeJJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=LemonadeJJ&show_icons=true&theme=radical)
 
 <!--- 
 themes: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
 --->
-    Here is a newbie who is learning neural network. :fist: :fist: :fist:
+    Here is a newbie who is learning neural network.
+    
 
-:straight_ruler:  &nbsp; LemonadeJJ's Top Langs:  
+##### :straight_ruler:  &nbsp; LemonadeJJ's Top Langs:  
 
   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LemonadeJJ&layout=compact&show_icons=true&theme=synthwave&theme=cobalt)](https://github.com/LemonadeJJ/github-readme-stats)  
 
@@ -30,11 +31,19 @@ themes: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, h
     2. Python: Data processing, data visualization,auxiliary function.
     3. Markdown: Mainly for writting documents, using typora.  
     
-:dizzy: &nbsp; LemonadeJJ's Github Activity Graph:
-[![LemonadeJJ's github activity graph](https://activity-graph.herokuapp.com/graph?username=LemonadeJJ&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  
-  
-:dash:  &nbsp; LemonadeJJ's Streak:  
+##### :dizzy: &nbsp; LemonadeJJ's Github Activity Graph:  
 
-  &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LemonadeJJ&theme=dark)](https://git.io/streak-stats)
+<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="wyhallenwu's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=LemonadeJJ&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>  
 
+    A promise tomorrow is worth a lot less than trying today.  
+    
+##### :dash:  &nbsp; LemonadeJJ's Streak:  
+
+  &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LemonadeJJ&theme=dark)](https://git.io/streak-stats)  
+  
+
+##### :mushroom:  &nbsp; LemonadeJJ's Wakatime Stats:
+
+  &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; 
+[![LemonadeJJ's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LemonadeJJ)](https://github.com/anuraghazra/github-readme-stats)

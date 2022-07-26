@@ -15,7 +15,7 @@
 
 ##### :pencil2: &nbsp; LemonadeJJ's Github Stats::punch::punch:
 
-  &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; ![LemonadeJJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=LemonadeJJ&show_icons=true&theme=radical)
+  &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=LemonadeJJ&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
 
 <!--- 
 themes: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
@@ -25,7 +25,7 @@ themes: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, h
 
 ##### :straight_ruler:  &nbsp; LemonadeJJ's Top Langs:  
 
-  &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LemonadeJJ&layout=compact&show_icons=true&theme=synthwave&theme=cobalt)](https://github.com/LemonadeJJ/github-readme-stats)  
+  &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LemonadeJJ&langs_count=8&layout=compact&theme=radical&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
 
     1. C++: Commonly-used programming language, get familiar with C++ 11 / 17.
     2. Python: Data processing, data visualization,auxiliary function.

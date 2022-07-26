@@ -42,6 +42,7 @@ themes: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, h
 
   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LemonadeJJ&theme=dark)](https://git.io/streak-stats)  
   
+    Keep punching in~~~
 
 ##### :mushroom:  &nbsp; LemonadeJJ's Wakatime Stats:
 

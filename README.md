@@ -30,13 +30,7 @@ themes: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, h
     1. C++: Commonly-used programming language, get familiar with C++ 11 / 17.
     2. Python: Data processing, data visualization,auxiliary function.
     3. Markdown: Mainly for writting documents, using typora.  
-    
-##### :dizzy: &nbsp; LemonadeJJ's Github Activity Graph:  
-
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="LemonadeJJ's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=LemonadeJJ&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>  
-
-    A promise tomorrow is worth a lot less than trying today.  
+ 
     
 ##### :dash:  &nbsp; LemonadeJJ's Streak:  
 

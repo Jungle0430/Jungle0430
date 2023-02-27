@@ -28,8 +28,9 @@ themes: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, h
   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LemonadeJJ&langs_count=8&layout=compact&theme=radical&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
 
     1. C++: Commonly-used programming language, get familiar with C++ 11 / 17.
-    2. Python: Data processing, data visualization,auxiliary function.
+    2. Python: Machine learning, Data processing, data visualization etc.
     3. Markdown: Mainly for writting documents, using typora.  
+    4. Latex: Mainly for writting course paper and formula.
  
     
 ##### :dash:  &nbsp; Jungle's Streak:  

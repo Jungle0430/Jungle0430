@@ -6,8 +6,8 @@
 
 ### :notebook_with_decorative_cover: &nbsp;Brief Introduction:
     * Major in CS at SHU Currently. 
-    * Interested in CV, DIP and so on.
-    * Probably going to further study in fields like medical image processing and robotic vision.
+    * Interested in CV and probably going to further study.
+    * A newbie who is learning neural network.
 
 ##### :pencil2: &nbsp; Jungle's Github Stats::punch::punch:
 
@@ -16,7 +16,6 @@
 <!--- 
 themes: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
 --->
-    Here is a newbie who is learning neural network.
     
 
 ##### :straight_ruler:  &nbsp; Jungle's Top Langs:  
@@ -24,7 +23,7 @@ themes: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, h
   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jungle0430&langs_count=8&layout=compact&theme=radical&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
 
     1. C++/C: Commonly-used programming language, get familiar with C++11 and Cuda programming.
-    2. Python: Machine learning, Data processing, data visualization etc.
+    2. Python: Machine learning, data processing and visualizing etc.
     3. Markdown: Mainly for writting documents, using typora.  
     4. Latex: Mainly for writting course paper and formula.
  

@@ -5,9 +5,9 @@
 
 
 ### :notebook_with_decorative_cover: &nbsp;Brief Introduction:
-    * Major in CS at SHU Currently. 
-    * Interested in CV and probably going to further study.
-    * A newbie who is learning neural network.
+    * Currently majoring in CS at SHU.
+    * Soon, embark on postgraduate studies at USTC with a focus on cyberspace security.
+    * Interested in Model Inversion, Split Federated Learning, Data Hiding.
 
 ##### :pencil2: &nbsp; Jungle's Github Stats::punch::punch:
 
@@ -21,11 +21,6 @@ themes: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, h
 ##### :straight_ruler:  &nbsp; Jungle's Top Langs:  
 
   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jungle0430&langs_count=8&layout=compact&theme=radical&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
-
-    1. C++/C: Commonly-used programming language, get familiar with C++11 and Cuda programming.
-    2. Python: Machine learning, data processing and visualizing etc.
-    3. Markdown: Mainly for writting documents, using typora.  
-    4. Latex: Mainly for writting course paper and formula.
  
     
 ##### :dash:  &nbsp; Jungle's Streak:  
